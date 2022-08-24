@@ -1,129 +1,34 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Mark Kelland">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11901</md:content-id>
-  <md:title>Personality Theory in a Cultural Context</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>9484b2cb-a393-45aa-96bf-e9ae9380dd3e</md:uuid>
-<md:slug>personality-theory-in-a-cultural-context</md:slug>
-</metadata>
-
+    <md:content-id>col11901</md:content-id>
+    <md:title>Personality Theory in a Cultural Context</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9484b2cb-a393-45aa-96bf-e9ae9380dd3e</md:uuid>
+    <md:slug>personality-theory-in-a-cultural-context</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m58007"/>
-        
-      
-    
-    
-      <col:module document="m58016"/>
-        
-      
-    
-    
-      <col:module document="m58019"/>
-        
-      
-    
-    
-      <col:module document="m58034"/>
-        
-      
-    
-    
-      <col:module document="m58036"/>
-        
-      
-    
-    
-      <col:module document="m58038"/>
-        
-      
-    
-    
-      <col:module document="m58039"/>
-        
-      
-    
-    
-      <col:module document="m58071"/>
-        
-      
-    
-    
-      <col:module document="m58072"/>
-        
-      
-    
-    
-      <col:module document="m58053"/>
-        
-      
-    
-    
-      <col:module document="m58064"/>
-        
-      
-    
-    
-      <col:module document="m58037"/>
-        
-      
-    
-    
-      <col:module document="m58035"/>
-        
-      
-    
-    
-      <col:module document="m58063"/>
-        
-      
-    
-    
-      <col:module document="m58055"/>
-        
-      
-    
-    
-      <col:module document="m58017"/>
-        
-      
-    
-    
-      <col:module document="m58073"/>
-        
-      
-    
-    
-      <col:module document="m58074"/>
-        
-      
-    
-    
-      <col:module document="m58075"/>
-        
-      
-    
-    
-      <col:module document="m58018"/>
-        
-      
-    
-    
-      <col:module document="m58015"/>
-        
-      
-    
+    <col:module document="m58007"/>
+    <col:module document="m58016"/>
+    <col:module document="m58019"/>
+    <col:module document="m58034"/>
+    <col:module document="m58036"/>
+    <col:module document="m58038"/>
+    <col:module document="m58039"/>
+    <col:module document="m58071"/>
+    <col:module document="m58072"/>
+    <col:module document="m58053"/>
+    <col:module document="m58064"/>
+    <col:module document="m58037"/>
+    <col:module document="m58035"/>
+    <col:module document="m58063"/>
+    <col:module document="m58055"/>
+    <col:module document="m58017"/>
+    <col:module document="m58073"/>
+    <col:module document="m58074"/>
+    <col:module document="m58075"/>
+    <col:module document="m58018"/>
+    <col:module document="m58015"/>
   </col:content>
 </col:collection>
